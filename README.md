@@ -1,7 +1,7 @@
 What's New:
 1. Added a 'Search' button to filter information within the database.
 
-2. Added a 'Clear' button that allows users to reset the input fields before submitting data to the database. This button is only enabled when the user has entered some information.
+2. Added a 'Clear' button that allow users to reset the input fields before submitting data to the database. This button is only enabled when the user has entered some information.
 
 3. Added a 'Log Out' button to complement the existing login functionality.
 
